@@ -4,13 +4,13 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 
 ## 🔗 Live Preview
 
-[Visit my portfolio website](file:///C:/Users/DELL/OneDrive/Desktop/portfolio.html)  
+[Visit my portfolio website]()  
 *(Replace this link with your actual deployed URL)*
 
 ## 🛠️ Technologies Used
 
 - HTML
-- CSS3 
+- CSS
 
 ## 📌 Features
 
